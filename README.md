@@ -34,9 +34,9 @@ alt="python" width="40" height="40"/> </a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="postgreSQL" width="40" height="40"/> </a>
-<a href="https://spark.apache.org/sql/" target="_blank" rel="noreferrer"> <img src="https://freepikpsd.com/file/2019/10/spark-logo-png-1.png" alt="apacheSpark" width="70" height="40"/> </a>
+<a href="https://spark.apache.org/sql/" target="_blank" rel="noreferrer"> <img src="https://freepikpsd.com/file/2019/10/spark-logo-png-1.png" alt="apacheSpark" width="60" height="40"/> </a>
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://image.pngaaa.com/622/5661622-middle.png" alt="apacheAirflow" width="40" height="40"/> </a>
-<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://hadoop.apache.org/hadoop-logo.jpg" alt="apacheHadoop" width="90" height="40"/> </a>
+<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://hadoop.apache.org/hadoop-logo.jpg" alt="apacheHadoop" width="110" height="40"/> </a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="tableau" width="60" height="40"/> </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarynduong&show_icons=true&locale=en&layout=compact" alt="tarynduong" /></p>
