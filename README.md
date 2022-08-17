@@ -44,4 +44,3 @@ alt="python" width="40" height="40"/> </a>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarynduong&show_icons=true&locale=en" alt="tarynduong" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarynduong&" alt="tarynduong" /></p>
-git push
