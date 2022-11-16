@@ -1,24 +1,24 @@
 ![MasterHead](https://visme.co/blog/wp-content/uploads/2020/06/Header-2.jpg)
 
 <h1 align="center">Hi 👋, I'm Truc Duong (Taryn) ^^</h1>
+<!--
 <h3 align="center">
   <pre>
   I'm looking for a junior position as a Machine Learning Engineer / Data Scientist.
   Open to relocation if needed.
+  - 👯 I’m looking to collaborate in any projects related to **machine learning production** 
   </pre>
 </h3>
+-->
 <img align="right" alt="Coding" width="400" src="https://tinyurl.com/r5xrak7m"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarynduong&label=Profile%20views&color=f4b73f&style=flat" alt="tarynduong"/> </p>
 
 - 🌱 I'm currently interested in **real-time machine learning and NLP**
 
-- 👯 I’m looking to collaborate in any projects related to **machine learning production** 
-
 - 🔭 You can find all of my projects here on [Taryn's portfolio](https://www.datascienceportfol.io/trucduong)
 
-- ⚡ Fun fact: **I'm an avid learner. You’ll always find my nose buried in a book or browsing online tech forums or blogs in my free time.
-That's how I relax after work, besides music, movies and travel.**
+- ⚡ Fun fact: **I'm an avid learner. You’ll always find my nose buried in a book or browsing online tech forums or blogs to pick up new technology or new concepts in my free time. That's how I relax after work, besides music, movies and travel.**
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
