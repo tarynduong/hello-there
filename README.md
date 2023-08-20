@@ -4,7 +4,7 @@
 <!--
 <h3 align="center">
   <pre>
-  I'm looking for a junior position as a Machine Learning Engineer / Data Scientist.
+  I'm looking for a junior position as a Machine Learning Engineer.
   Open to relocation if needed.
   - 👯 I’m looking to collaborate in any projects related to **machine learning production** 
   </pre>
@@ -15,8 +15,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarynduong&label=Profile%20views&color=f4b73f&style=flat" alt="tarynduong"/> </p>
 
 - 🌱 I'm currently interested in **real-time machine learning and NLP**
-
-- 🔭 You can find all of my projects here on [Taryn's portfolio](https://www.datascienceportfol.io/trucduong)
 
 - ⚡ Fun fact: **I'm an avid learner. You’ll always find my nose buried in a book or browsing online tech forums or blogs to pick up new technology or new concepts in my free time. That's how I relax after work, besides music, movies and travel.**
 
